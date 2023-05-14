@@ -1,0 +1,192 @@
+{
+  "Categories": {
+    "1652864817039": {
+      "category": "Ga chien nuoc mam",
+      "id": "1652864817039",
+      "timestamp": 1652864817039,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652871960559": {
+      "category": "Thit kho",
+      "id": "1652871960559",
+      "timestamp": 1652871960559,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652871976476": {
+      "category": "Rong bay Phuong mua",
+      "id": "1652871976476",
+      "timestamp": 1652871976476,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872028634": {
+      "category": "Bun mang vit",
+      "id": "1652872028634",
+      "timestamp": 1652872028634,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872041882": {
+      "category": "Banh quy",
+      "id": "1652872041882",
+      "timestamp": 1652872041882,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872059892": {
+      "category": "Mi quang",
+      "id": "1652872059892",
+      "timestamp": 1652872059892,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872099225": {
+      "category": "Bo cuon nam kim cham",
+      "id": "1652872099225",
+      "timestamp": 1652872099225,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872137408": {
+      "category": "Ca thu sot ca chua",
+      "id": "1652872137408",
+      "timestamp": 1652872137408,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872185425": {
+      "category": "Ga xao chua ngot",
+      "id": "1652872185425",
+      "timestamp": 1652872185425,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872207512": {
+      "category": "Khoai tay chien sot thit bam",
+      "id": "1652872207512",
+      "timestamp": 1652872207512,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872320950": {
+      "category": "Banh ran",
+      "id": "1652872320950",
+      "timestamp": 1652872320950,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872339831": {
+      "category": "Tom hap toi",
+      "id": "1652872339831",
+      "timestamp": 1652872339831,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652872346409": {
+      "category": "Bo nhung dam",
+      "id": "1652872346409",
+      "timestamp": 1652872346409,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652878400743": {
+      "category": "Thit bo ngu huong",
+      "id": "1652878400743",
+      "timestamp": 1652878400743,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1652878608958": {
+      "category": "Ga ran",
+      "id": "1652878608958",
+      "timestamp": 1652878608958,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1653018105699": {
+      "category": "Ga sot cay",
+      "id": "1653018105699",
+      "timestamp": 1653018105699,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1653018997951": {
+      "category": "ga",
+      "id": "1653018997951",
+      "timestamp": 1653018997951,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    },
+    "1653730237805": {
+      "category": "D",
+      "id": "1653730237805",
+      "timestamp": 1653730237805,
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3"
+    }
+  },
+  "Recipes": {
+    "1651579436964": {
+      "categoryId": "1651463779413",
+      "description": "Ywywhbehs",
+      "downloadsCount": 0,
+      "timestamp": 1651579436964,
+      "title": "Bdbs",
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3",
+      "url": "https://firebasestorage.googleapis.com/v0/b/cooking-app-9b54f.appspot.com/o/Recipes%2F1651579436964?alt=media&token=f26db625-8d3b-4208-9060-baf99cbf4977",
+      "viewsCount": 0
+    },
+    "1651730884764": {
+      "categoryId": "1651463779413",
+      "description": "Ggj",
+      "downloadsCount": 0,
+      "timestamp": 1651730884764,
+      "title": "Gv",
+      "uid": "NheX2GXslgeuDDGOZYCiQJR02aI3",
+      "url": "https://firebasestorage.googleapis.com/v0/b/cooking-app-9b54f.appspot.com/o/Recipes%2F1651730884764?alt=media&token=895b650e-d953-4913-ac8e-e53346432e6f",
+      "viewsCount": 0
+    }
+  },
+  "Users": {
+    "OOnMnwFXDfchIW2YyZdTrmH7ObF3": {
+      "email": "luan@gmail.com",
+      "name": "Lnau",
+      "profileImage": "",
+      "timestamp": 1684064257377,
+      "uid": "OOnMnwFXDfchIW2YyZdTrmH7ObF3",
+      "userType": "user"
+    },
+    "QA5uCYduM5PCKPurxomzK0JvW1G3": {
+      "email": "dung123@gmail.com",
+      "name": "Dung",
+      "profileImage": "",
+      "timestamp": 1653009656470,
+      "uid": "QA5uCYduM5PCKPurxomzK0JvW1G3",
+      "userType": "user"
+    },
+    "WzTYu0sSmRaV53ornm6NQVLLurG2": {
+      "email": "luan2@gmail.com",
+      "name": "Phamluan",
+      "profileImage": "",
+      "timestamp": 1684070302064,
+      "uid": "WzTYu0sSmRaV53ornm6NQVLLurG2",
+      "userType": "admin"
+    },
+    "fbJttR8UEpZw8QRIXqJgRS2nTHf1": {
+      "email": "dunglailatrinh1102@gmial.com",
+      "name": "Dung",
+      "profileImage": "",
+      "timestamp": 1652877813287,
+      "uid": "fbJttR8UEpZw8QRIXqJgRS2nTHf1",
+      "userType": "user"
+    },
+    "hhrYv2SVrcSuWqW6A98InJOyLXR2": {
+      "email": "1@gmail.com",
+      "name": "1",
+      "profileImage": "",
+      "timestamp": 1652882269531,
+      "uid": "hhrYv2SVrcSuWqW6A98InJOyLXR2",
+      "userType": "user"
+    },
+    "oIxK9AitQsTBu8fgIwbVcCYBtes1": {
+      "email": "toang@gmail.com",
+      "name": "toang",
+      "profileImage": "",
+      "timestamp": 1652769199493,
+      "uid": "oIxK9AitQsTBu8fgIwbVcCYBtes1",
+      "userType": "user"
+    },
+    "oO13i5r5jJbpcRGWOpcVnarV0w93": {
+      "email": "luan3@gmail.com",
+      "name": "Phamluan",
+      "profileImage": "",
+      "timestamp": 1684076420165,
+      "uid": "oO13i5r5jJbpcRGWOpcVnarV0w93",
+      "userType": "user"
+    }
+  }
+}
